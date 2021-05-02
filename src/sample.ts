@@ -12,4 +12,4 @@ let firstName: string = "Sameer";
 let lastName: string = "Khan";
 let age: number = 45;
 let isActived: boolean = true;
-let course[]: [string] = ["sameer",]
+let course: string[] = ["JAVA", "React", "Bootstrap"];
